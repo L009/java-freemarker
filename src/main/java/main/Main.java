@@ -23,7 +23,7 @@ public class Main {
         server.setHandler(context);
 
 
-        System.out.println();
+        System.out.println("hello world");
 
         server.start();
         java.util.logging.Logger.getGlobal().info("Server started");
